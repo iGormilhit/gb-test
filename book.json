@@ -1,0 +1,13 @@
+{
+    "title": "Mon titre",
+    "description": "Un premier test de GitBook",
+    "author": "iGor milhit",
+    "language": "fr",
+
+    "plugins": ["edit-link"],
+    "pluginsConfig": {
+        "edit-link": {
+            "base"
+        }
+    }
+}
